@@ -63,7 +63,7 @@ class _MyHomePageState extends State<MyHomePage> {
 ```
 <p align="center"><img src ="https://user-images.githubusercontent.com/74844624/213601240-09b80044-93cb-4622-8f58-475448f2c88f.png" width="700"/></p>
 
-Luego se crea una nueva pantalla para realizar el cambio de una ventana a otra, la pagina creada tiene la funcionalidad de agregar los nombres favoritos, que se emitien aleatoriamente, el cual se lo agresa solo si se aplasto el boton de me gusta. 
+Luego se crea una nueva pantalla para realizar el cambio de una ventana a otra, la página creada tiene la funcionalidad de agregar los nombres favoritos, que se emiten aleatoriamente, el cual se agrega solo si se aplasto el botón de me gusta.
 
 ```dart
 class FavoritesPage extends StatelessWidget {
